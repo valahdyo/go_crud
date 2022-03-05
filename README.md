@@ -19,6 +19,8 @@ create database
 $ cd /@where-you-save-repo/
 $ go mod tidy
 $ go run main.go
+
+port = 5000
 ```
 
 [Postman Doc](https://documenter.getpostman.com/view/19880774/UVkvJCnY)
