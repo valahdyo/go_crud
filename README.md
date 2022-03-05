@@ -13,10 +13,12 @@ Project is created with library:
 To run this project, install it locally using go:
 
 ```
-configure db/init.go 
+configure db/init.go
 create database
 
 $ cd /@where-you-save-repo/
 $ go mod tidy
 $ go run main.go
 ```
+
+[Postman Doc](https://documenter.getpostman.com/view/19880774/UVkvJCnY)
