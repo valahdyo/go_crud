@@ -1,9 +1,5 @@
-package main
+package request
 
-type LoginRequest struct {
-	Email    string
-	Password string
-}
 
 type UserUpdateRequest struct {
 	FullName  string
